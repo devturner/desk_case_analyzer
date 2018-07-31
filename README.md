@@ -1,2 +1,2 @@
 # desk_case_analyzer
-analyze salesforce desk cases for average response time
+analyze salesforce desk cases for average response time during business hours. 
